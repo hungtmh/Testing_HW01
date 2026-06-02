@@ -2,12 +2,11 @@
 
 **Objective:** Find 10 QA/QC job postings published within 60 days of the submission date. At least 3 positions must require AI/LLM/automation-AI skills.
 
-> **Note on Anti-cheat:** All screenshots must show your account name (login name / display name) on the job platform in the corner.
 
 ---
 
 ## Job Posting 1 (Requires AI/LLM/Automation-AI skills)
-* **Link:** [Insert Link Here]
+* **Link:** [https://www.linkedin.com/jobs/search-results/?currentJobId=4421374293&eBP=NON_CHARGEABLE_CHANNEL&refId=cw8azqyQyRUU5lYzU4ubzQ%3D%3D&trackingId=nFLt4772M1C%2B5%2F6uQ2aBCg%3D%3D&keywords=Qa&origin=BLENDED_SEARCH_RESULT_NAVIGATION_SEE_ALL&originToLandingJobPostings=4421374293%2C4405746180%2C4385248485]
 * **Dated Screenshot:** ![Screenshot 1](path/to/screenshot1.png) *(Ensure account name and date are visible)*
 * **Job Description:** 
   * [Insert brief job description here]
