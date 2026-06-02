@@ -1,4 +1,4 @@
-# Requirement 1 – QA/QC Job Market 2026+
+# Requirement 1 - QA/QC Job Market 2026+
 
 **Objective:** Find 10 QA/QC job postings published within 60 days of the submission date. At least 3 positions must require AI/LLM/automation-AI skills.
 > **Note on Anti-cheat:** All screenshots must show your account name (login name / display name) on the job platform in the corner.
@@ -23,7 +23,7 @@
   * Good understanding in AI applications and LLM prompt engineering techniques
   * Experiences in LLM development or eval is a plus
 * **Salary:** Not disclosed
-* **AI Impact Analysis:** Vị trí này xoay quanh AI, chuyển đổi kỹ sư QA từ kiểm thử xác định truyền thống sang đánh giá kết quả mô hình LLM. QA bắt buộc phải có kiến thức sâu về prompt engineering và tạo công cụ tự động hóa ứng dụng AI để phân tích lỗi.
+* **AI Impact Analysis:** This role revolves around AI, shifting QA engineers from traditional deterministic testing to evaluating LLM model outputs. QA must possess deep knowledge of prompt engineering and create automated tools for AI applications to analyze defects.
 
 ---
 
@@ -42,7 +42,7 @@
   * Deep understanding of API automation, CI/CD integration, and mainstream testing frameworks
   * Practical experience with AI testing tools or AI-assisted QA workflows
 * **Salary:** Not disclosed
-* **AI Impact Analysis:** Việc áp dụng AI vào luồng công việc CI/CD giúp tự động hóa quá trình sinh test và phân tích lỗi thay vì duy trì script thủ công. Người đảm nhận vị trí này cần dùng AI để tăng tốc quy trình kiểm thử hệ thống phân tán diện rộng.
+* **AI Impact Analysis:** Integrating AI into the CI/CD workflow automates test generation and defect analysis instead of maintaining manual scripts. This role requires using AI to accelerate the testing process for large-scale distributed systems.
 
 ---
 
@@ -62,7 +62,7 @@
   * Database: SQL or NoSQL databases
   * AI Engineering: Experience with large language models (LLMs), prompt engineering, RAG, and Agentic AI
 * **Salary:** Not disclosed
-* **AI Impact Analysis:** Cùng với việc kiểm thử, AI hiện diện ở chính các công cụ mô phỏng tinh vi (Agentic AI, RAG) do kỹ sư viết ra để giả lập các kịch bản kiểm thử mà tự động hóa truyền thống không đáp ứng được.
+* **AI Impact Analysis:** Along with testing, AI is present in sophisticated simulation tools (Agentic AI, RAG) created by the engineer to simulate test scenarios that traditional automation cannot handle.
 
 ---
 
@@ -76,11 +76,11 @@
   * Write automation scripts using Cypress, Playwright to accelerate the testing process
 * **Required Skills:**
   * 1-3 years of experience and holds a testing certification (ISTQB, QA Foundation)
-  * Writes clear, systematic test cases and test plans, với logic tốt
+  * Writes clear, systematic test cases and test plans, with good logical thinking
   * Familiar with automation testing tools (Cypress, Selenium, Playwright, etc.)
   * Communicates well with PO and Dev, proactively asks questions and provides feedback
 * **Salary:** Not disclosed
-* **AI Impact Analysis:** Dù tập trung vào Automation truyền thống (Cypress, Playwright), ứng dụng AI vẫn cung cấp lợi ích lớn như sinh boilerplate nhanh và giảm thời gian thiết kế tài liệu kiểm thử so với trước đây.
+* **AI Impact Analysis:** Although focused on traditional automation (Cypress, Playwright), applying AI (like Copilot/ChatGPT) provides significant benefits such as quickly generating boilerplate code and reducing test design time compared to before.
 
 ---
 
@@ -88,17 +88,17 @@
 * **Link:** https://itviec.com/viec-lam-it/qa-qc?job_selected=senior-qc-automation-tester-qa-qc-pnj-5542
 * **Dated Screenshot:** ![Screenshot 5](path/to/screenshot5.png) *(Ensure account name and date are visible)*
 * **Job Description:** 
-  * Lập kế hoạch kiểm thử cho các sản phẩm truyền thống và AI
-  * Thực hiện kiểm thử chức năng, UI/UX và hành vi của AI, kiểm tra các tình huống edge case, misuse
-  * Kiểm tra độ chính xác, độ tin cậy và tính công bằng của kết quả AI
-  * Áp dụng các công cụ kiểm thử AI (LLM evaluation, synthetic data)
-  * Kiểm tra tính đầy đủ và chính xác của dữ liệu huấn luyện AI
+  * Plan testing for traditional and AI-integrated products
+  * Execute functional, UI/UX, and AI behavior testing; check edge cases and misuse scenarios
+  * Verify the accuracy, reliability, and fairness of AI results
+  * Apply AI testing tools (LLM evaluation, synthetic data)
+  * Check the completeness and accuracy of AI training data
 * **Required Skills:**
-  * Tối thiểu 04 năm kinh nghiệm trong lĩnh vực Software Testing Automation ứng dụng AI trong testing
-  * Có khả năng phân tích các rủi ro hệ thống và xử lý nhiều dự án song song
-  * Tư duy end-user, cẩn thận; ưu tiên có chứng chỉ ISTQB, Agile
+  * At least 4 years of experience in Software Testing Automation applying AI in testing
+  * Ability to analyze system risks and handle multiple projects simultaneously
+  * End-user mindset, careful; ISTQB, Agile certifications are a plus
 * **Salary:** 1,000 - 1,500 USD
-* **AI Impact Analysis:** Công việc không chỉ đòi hỏi sử dụng công cụ AI mà còn trực tiếp kiểm định dữ liệu huấn luyện, mô hình học máy và tính công bằng của AI, đánh dấu sự chuyển giao lớn từ phần mềm dịch vụ sang đánh giá Mô hình (Model Testing).
+* **AI Impact Analysis:** The job requires not only using AI tools but also directly validating training data, machine learning models, and AI fairness, marking a major shift from traditional software testing to Model Testing.
 
 ---
 
@@ -115,7 +115,7 @@
   * Proficient in Java, Python, or C# and familiar with Selenium/Appium
   * Experience with AI-automation testing (e.g., Copilot, Cursor, Perplexity)
 * **Salary:** 1,100 - 1,500 USD
-* **AI Impact Analysis:** Cần vận dụng thuần thục các trợ lý lập trình AI (Copilot, Cursor) trong viết thuật toán Test Automation để đẩy nhanh năng suất thiết kế và debug hệ thống kiểm thử hơn nhiều so với thủ công.
+* **AI Impact Analysis:** Requires proficient use of AI coding assistants (Copilot, Cursor) in writing Test Automation algorithms to accelerate design and debug testing systems much faster than manual approaches.
 
 ---
 
@@ -133,7 +133,7 @@
   * Strong English reading and writing skills
   * Performance, security, or cross-browser testing is a plus
 * **Salary:** Up to 1500 USD
-* **AI Impact Analysis:** Với QC làm thủ công (Manual Testing) làm việc cho Web phân tán, sử dụng AI giúp mô phỏng sơ đồ kiến trúc nhanh nhằm khám phá đủ mọi Edge Cases thực tế, đồng thời viết Bug Report bằng tiếng Anh trơn tru, logic hơn.
+* **AI Impact Analysis:** For Manual QC working on distributed Web systems, using AI helps to quickly simulate architectural diagrams to discover practical edge cases, while also writing clear and logical bug reports in English.
 
 ---
 
@@ -141,16 +141,16 @@
 * **Link:** https://itviec.com/viec-lam-it/qa-qc?job_selected=automation-tester-qa-qc-abbank-0039
 * **Dated Screenshot:** ![Screenshot 8](path/to/screenshot8.png) *(Ensure account name and date are visible)*
 * **Job Description:** 
-  * Định nghĩa, phát triển và duy trì script cho automation test (API/REST/Application)
-  * Thiết kế test case và viết automation scripts kết hợp với nhóm Manual testing
-  * Đưa ra phương án testing, chiến lược automation test framework
-  * Quản lý source control cho automation test script
+  * Define, develop, and maintain scripts for automation tests (API/REST/Application)
+  * Design test cases and write automation scripts in collaboration with the Manual testing team
+  * Provide testing solutions and automation test framework strategies
+  * Manage source control for automation test scripts
 * **Required Skills:**
-  * Trên 02 năm kinh nghiệm trong automation testing cho API/REST, Mobile hoặc Web
-  * Thông thạo viết automation test script với Java, C#.net, Python, JS,...
-  * Kinh nghiệm sử dụng Katalon, Postman, Rest Assured, Selenium, Jmeter, CI/CD
+  * Over 2 years of experience in automation testing for API/REST, Mobile, or Web
+  * Proficient in writing automation test scripts with Java, C#.net, Python, JS, etc.
+  * Experience using Katalon, Postman, Rest Assured, Selenium, Jmeter, CI/CD
 * **Salary:** 1,000 - 2,000 USD
-* **AI Impact Analysis:** Áp dụng AI vào API testing cho phép QC chỉ cần cung cấp định dạng JSON/Swagger, AI sẽ tự động sinh nhanh hàng chục biến thể payload và quét các lỗ hổng bảo mật ngay trong CI/CD.
+* **AI Impact Analysis:** Applying AI to API testing allows QC to simply provide JSON/Swagger formats; AI will automatically generate dozens of payload variants and scan for security vulnerabilities directly in the CI/CD pipeline.
 
 ---
 
@@ -163,12 +163,12 @@
   * Work closely with Product Managers, Designers, and Engineers to validate new releases
   * Own testing processes for multiple product features and releases
 * **Required Skills:**
-  * 1–2 years of experience in software testing or QA roles
+  * 1-2 years of experience in software testing or QA roles
   * Familiarity with web/mobile application testing
   * Basic understanding of APIs, databases, and product workflows
   * Curious, proactive, user-focused mindset to find edge cases
 * **Salary:** 800 - 1,500 USD
-* **AI Impact Analysis:** Trong mảng Product Tester (Tập trung tính năng sản phẩm), sử dụng AI đóng vai trò như công cụ phân tích Sentiment Feedback quy mô lớn, gợi ý chính xác những luồng UI/UX cần ưu tiên kiểm định nhất.
+* **AI Impact Analysis:** In the Product Tester role, using AI serves as a large-scale sentiment feedback analysis tool, accurately suggesting which UI/UX flows should be prioritized for testing based on real-world data insights.
 
 ---
 
@@ -186,4 +186,4 @@
   * Proficiency in languages like C, C++, C#, Java, JavaScript, Python
   * Good English and understanding of testing life cycle (Agile/Scrum)
 * **Salary:** 800 - 1,200 USD
-* **AI Impact Analysis:** AI làm nhiệm vụ bảo trì code kiểm thử tự động, đặc biệt với khả năng tự phục hồi (Self-healing). Khi giao diện thay đổi dẫn đến script báo lỗi locator, AI sẽ tự nhận diện phần tử UI và cập nhật tự động thay vì chờ Tester sửa tay.
+* **AI Impact Analysis:** AI performs test automation code maintenance, especially with self-healing capabilities. When UI changes cause locator errors in scripts, AI automatically recognizes UI elements and updates them without waiting for manual fixes.
