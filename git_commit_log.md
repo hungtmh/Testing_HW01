@@ -6,6 +6,11 @@
 ## Lịch Sử Commit
 
 ```text
+* 8ff1b2e - hungtmh, 2026-06-03 20:03:40 +0700 : Sửa lại các file AI làm để phù hợp thực tế hơn
+* 522affd - hungtmh, 2026-06-03 19:14:37 +0700 : Thêm ảnh conversation với AI trong bt 3
+* c0ec9d8 - hungtmh, 2026-06-03 10:02:58 +0700 : Thêm các file theo yêu cầu nộp và chỉnh lại tiếng anh hết
+* cf8cb42 - hungtmh, 2026-06-03 09:27:34 +0700 : Translate all to English, fix defect numbering, move AI Audit/Critique to separate file with YouTube video links
+* bcab259 - hungtmh, 2026-06-03 09:19:17 +0700 : Chỉnh sửa bài 3 của AI, thêm vô test case mình tự chế
 * 631a4a0 - hungtmh, 2026-06-02 19:08:25 +0700 : Hùng Làm bài requirment 3
 * 7d8efec - hungtmh, 2026-06-02 15:28:05 +0700 : Gộp bài 2 vào bài 1
 * b03d475 - hungtmh, 2026-06-02 15:22:05 +0700 : Làm bài tập 2
@@ -21,6 +26,11 @@
 
 | Hash | Thời gian | Nội dung |
 |------|-----------|----------|
+| `8ff1b2e` | 20:03 03/06/2026 | Sửa lại các file AI làm để phù hợp thực tế hơn (Bổ sung Excel, Mindmap, 20 lỗi AI) |
+| `522affd` | 19:14 03/06/2026 | Thêm ảnh hội thoại thực tế với AI cho phần quạt Toshiba |
+| `c0ec9d8` | 10:02 03/06/2026 | Thêm các file báo cáo bổ trợ theo tiêu chuẩn môn học và chuyển đổi sang tiếng Anh |
+| `cf8cb42` | 09:27 03/06/2026 | Dịch toàn bộ báo cáo sang tiếng Anh, sửa đổi đánh số lỗi, và tạo tệp AI Audit riêng |
+| `bcab259` | 09:19 03/06/2026 | Chỉnh sửa TCs được tạo bởi AI, thêm vào các Edge Cases tự kiểm thử |
 | `631a4a0` | 19:08 02/06/2026 | Hoàn thành Requirement 3 – Physical Product Testing (15 TCs + Edge Cases) |
 | `7d8efec` | 15:28 02/06/2026 | Gộp nội dung Requirement 2 (20 Defects) vào file báo cáo chính |
 | `b03d475` | 15:22 02/06/2026 | Làm Requirement 2 – 20 lỗi phần mềm 2022–2026 |

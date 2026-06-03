@@ -51,7 +51,7 @@
 | Item | Content |
 |------|---------|
 | **(1) Prompt + Tool** | **Tool:** ChatGPT GPT-4o **\| Timestamp:** 11:15 02/06/2026 **\| Prompt:** *"Tạo cho tôi 20 lỗi software giữa năm 2022 tới năm 2026. Danh sách phải có ít nhất 5 lỗi liên quan đến AI/LLM Theo như yêu cầu của đề"* |
-| **(2) AI Output** |  |
+| **(2) AI Output** | ![20 Software Defects Output](images/20%20l%E1%BB%97i%20AI.png) |
 | **(3) Verdict** | **INCOMPLETE** |
 | **(4) Reasoning** | AI successfully generated 20 defects with correct formatting and included 7 AI/LLM defects, satisfying the "at least 5" requirement. However, AI exhibited significant **recency bias, numerical hallucinations**, and **technical classification errors** (e.g., conflating OWASSRF with ProxyNotShell, hallucinating that Storm-2139 members were convicted when investigation was ongoing, or claiming lawyers in Mata v. Avianca were disbarred instead of fined). The AI's meta-critique of other models' biases was useful, but it itself repeated several of those same hallucinations. |
 | **(5) Student Fix** | The student fact-checked all 20 defects against original security advisories, court filings, and news sources (e.g., NIST NVD, Palo Alto Advisories, BBC, court documents), correcting the severity levels, fixing dates, and documenting the specific hallucinations/biases present in AI-generated technical summaries. |
