@@ -6,7 +6,7 @@
 
 ## AI Critique (200–300 words)
 
-Throughout the process of using ChatGPT GPT-4o and Gemini 1.5 Pro to assist with HW01, I identified consistent and structurally similar weaknesses in both tools.
+Throughout the process of using ChatGPT GPT-5.1 and Gemini 3.1 Pro to assist with HW01, I identified consistent and structurally similar weaknesses in both tools.
 
 **On the QA/QC mindmap:** The AI-generated output appeared well-structured at first glance, but when cross-referenced with the ISTQB Foundation Level Syllabus, it was clear the AI could not accurately differentiate between the finely stratified roles defined by ISTQB—such as Test Analyst, Technical Test Analyst, and Test Lead—treating them as a single undifferentiated "tester" category. AI also exhibited a strong **waterfall-model bias**, omitting Agile-specific QA roles entirely. This reflects a training data imbalance: older documentation in English dominates, while modern Agile and AI-era QA materials are underrepresented. The AI *looked* confident without *being* accurate.
 
