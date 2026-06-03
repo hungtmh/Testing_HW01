@@ -2,7 +2,7 @@
 
 > **Môn học:** Kiểm thử phần mềm  
 > **MSSV:** 23127195  
-> **Họ và tên:** Trần Minh Hùng  
+> **Họ và tên:** Trần Mạnh Hùng  
 > **Ngày nộp:** 02/06/2026  
 > **File nộp:** `23127195_HW01_AI_100.zip`
 
