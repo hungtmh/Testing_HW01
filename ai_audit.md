@@ -30,7 +30,7 @@
 
 | Item | Content |
 |------|---------|
-| **(1) Prompt + Tool** | **Tool:** ChatGPT GPT-4o **\| Timestamp:** 10:30 02/06/2026 **\| Prompt:** *"Generate 12 practical test cases for testing the Toshiba F-LSA10(W)VN stand fan. Each test case must include: Objective, Precondition, Input, Steps, Expected Result. Cover these functions: power on/off, 3 speed levels, oscillation, timer, column height adjustment, physical stability."* |
+| **(1) Prompt + Tool** | **Tool:** Gemini 3.1 Pro (Antigravity) **\| Timestamp:** 16:30 02/06/2026 **\| Prompt:** *"Generate 12 practical test cases for testing the Toshiba F-LSA10(W)VN stand fan. Follow the requirement of some standard test case format"* |
 | **(2) AI Output** | ![12 Test Cases](images/12%20TEST%20CASE.png) |
 | **(3) Verdict** | **INCOMPLETE** |
 | **(4) Reasoning** | AI produced 12 of the 15 test cases with valid content and correct IEEE 829 / ISTQB structure. However, AI **completely missed 3 edge cases**: TC13 (motor stall protection), TC14 (thermal stress after 4 hours), and TC15 (impact while oscillating). Per ISTQB CTFL §4.2 on Experience-based Testing: edge cases arising from physical boundary conditions and feature interaction testing require domain experience the tester brings, not derivable from functional spec alone. AI has no experiential knowledge of physical hardware (it cannot "know" a motor will overheat when stalled, or that tile floors are slippery). This is a fundamental **knowledge gap** between text-trained AI and an experienced human tester. |
@@ -50,7 +50,7 @@
 
 | Item | Content |
 |------|---------|
-| **(1) Prompt + Tool** | **Tool:** ChatGPT GPT-4o **\| Timestamp:** 11:15 02/06/2026 **\| Prompt:** *"Tạo cho tôi 20 lỗi software giữa năm 2022 tới năm 2026. Danh sách phải có ít nhất 5 lỗi liên quan đến AI/LLM Theo như yêu cầu của đề"* |
+| **(1) Prompt + Tool** | **Tool:** Gemini 3.1 (Antigravity) **\| Timestamp:** 11:15 02/06/2026 **\| Prompt:** *"Tạo cho tôi 20 lỗi software giữa năm 2022 tới năm 2026. Danh sách phải có ít nhất 5 lỗi liên quan đến AI/LLM Theo như yêu cầu của đề"* |
 | **(2) AI Output** | ![20 Software Defects Output](images/20%20l%E1%BB%97i%20AI.png) |
 | **(3) Verdict** | **INCOMPLETE** |
 | **(4) Reasoning** | AI successfully generated 20 defects with correct formatting and included 7 AI/LLM defects, satisfying the "at least 5" requirement. However, AI exhibited significant **recency bias, numerical hallucinations**, and **technical classification errors** (e.g., conflating OWASSRF with ProxyNotShell, hallucinating that Storm-2139 members were convicted when investigation was ongoing, or claiming lawyers in Mata v. Avianca were disbarred instead of fined). The AI's meta-critique of other models' biases was useful, but it itself repeated several of those same hallucinations. |
@@ -78,4 +78,4 @@
 
 | Purpose | AI Tool & Prompt |
 |---------|------------------|
-| **File Structure Template** | **Tool:** ChatGPT GPT-4o **\| Prompt:** *"Generate the skeletal structure and content templates for the following software testing homework files: `ai_audit.md` (containing AI audit logs), `ai_critique.md` (critique of AI assistance), `ai_disclosure.md` (mandatory AI use disclosure), `git_commit_log.md` (formatted git logs), and `self_assessment.md` (student grading checklist). Ensure each file complies with the course requirements for student ID 23127195, uses clean markdown, and has placeholders where human edits are required."* |
+| **File Structure Template** | **Tool:** Gemini 3.1 Pro (Antigravity) **\| Prompt:** *"Generate the skeletal structure and content templates for the following software testing homework files: `ai_audit.md` (containing AI audit logs), `ai_critique.md` (critique of AI assistance), `ai_disclosure.md` (mandatory AI use disclosure), `git_commit_log.md` (formatted git logs), and `self_assessment.md` (student grading checklist)."* |
